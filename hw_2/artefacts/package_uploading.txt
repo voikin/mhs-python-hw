@@ -1,0 +1,18 @@
+-> pip install build twine
+...
+
+-> python -m build
+...
+
+-> twine upload dist/*
+Uploading distributions to https://upload.pypi.org/legacy/
+WARNING  This environment is not supported for trusted publishing                                             
+Enter your API token: 
+Uploading latex_generator_dazaii-0.1.0-py3-none-any.whl
+100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.3/4.3 kB • 00:00 • ?
+Uploading latex_generator_dazaii-0.1.0.tar.gz
+100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.9/3.9 kB • 00:00 • ?
+
+View at:
+https://pypi.org/project/latex-generator-dazaii/0.1.0/
+
