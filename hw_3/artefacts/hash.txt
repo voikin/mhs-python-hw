@@ -1,0 +1,2 @@
+hash(AB) = 20
+hash(CD) = 20
